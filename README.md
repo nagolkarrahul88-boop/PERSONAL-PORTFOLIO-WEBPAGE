@@ -45,4 +45,6 @@ The Personal Portfolio Website successfully fulfills its objective of presenting
 
 
 #OUTPUTS
-
+<img width="1350" height="659" alt="Image" src="https://github.com/user-attachments/assets/8c72df5f-10a8-492b-8a24-b774e527a1cb" />
+<img width="1348" height="658" alt="Image" src="https://github.com/user-attachments/assets/ffd50267-3709-45d6-a062-af973a4bad41" />
+<img width="1350" height="659" alt="Image" src="https://github.com/user-attachments/assets/abdea234-3a15-4628-a819-6242847c2193" />
